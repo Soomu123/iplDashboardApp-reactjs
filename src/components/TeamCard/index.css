@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 45%;
+  border: 1px solid #475569;
+  background-color: #475569;
+  border-radius: 12px;
+  margin: 10px;
+}
+.link {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.ipl-item-logo {
+  height: 80px;
+  width: 80px;
+  margin-right: 10px;
+  margin-left: 15px;
+}
+.item-name {
+  font-size: 28px;
+  text-decoration: none;
+  color: white;
+  font-family: Bree Serif;
+  text-align: center;
+  font-size: 26px;
+}
